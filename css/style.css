@@ -28,10 +28,6 @@ html, body {
   flex-grow: 8;
 }
 
-/* div.list-box {
-  flex: 10%;
-  flex-shrink: 1;
-} */
 
 .search {
   margin-left: 30px;
